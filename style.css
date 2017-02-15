@@ -1,0 +1,48 @@
+.main-container {
+	background-color:black;
+	margin:auto;
+	color:white;
+}
+.style {
+	position:relative;
+	left:200px;
+}
+.orange {
+	color:orange;
+}
+.buy-now {
+	background-color:rgb(255, 153, 0);
+	position:relative;
+	left:800px;
+}
+.bottom {
+	margin:auto;
+	width:1000px;
+	height:700px;
+	background-color:grey;
+}
+.nav-element {
+	display: inline;
+}
+.main-body {
+	margin:auto;
+	width:1000px;
+	height:800px;
+	background-color:grey;
+}
+.contact-number {
+	position:absolute;
+	top:5px;
+	right:210px;
+}
+/* center h4 to page and wrap words */
+.center {
+		position:relative;
+		left:210px;
+}
+/* move and style profiles button*/
+.profiles {
+		position:relative;
+		left:800px;
+		
+}
